@@ -2,8 +2,9 @@
  * Author@ Shea Salloum
  * License@GNU
  * purpose: Display a enter username and enter password screen then welcome the user
- */
-
+ *
+changes 1
+        */
 import java.util.Scanner;
 public class Username {
     public static void main(String[] args){
